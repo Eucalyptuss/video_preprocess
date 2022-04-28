@@ -1,6 +1,6 @@
 # Video Preprocess
 
-It is a processing method for basic information checking and image split in order to process a large-capacity video.
+It is a processing sequence for basic information checking and image split in order to process a large-capacity video.
  
 
 ### Guide
